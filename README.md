@@ -1,6 +1,3 @@
-# Temperature-converter
-🌡️ A lightweight Temperature Converter built purely with Vanilla JavaScript to convert temperature values between Celsius and Fahrenheit.
-
 # 🌡️ Temperature Converter
 
 A lightweight, pure Vanilla JavaScript utility for converting temperature values between Celsius, Fahrenheit, and Kelvin, built as part of my [roadmap.sh](https://roadmap.sh/) JavaScript practice projects.
